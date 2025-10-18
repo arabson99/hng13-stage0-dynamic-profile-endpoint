@@ -1,1 +1,1 @@
-web: ./target/debug/hng13-stage0-dynamic-profile-endpoint
+web: cargo run --release
