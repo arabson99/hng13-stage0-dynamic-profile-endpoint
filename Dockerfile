@@ -1,5 +1,5 @@
 # Use official Rust image to build the binary
-FROM rust:1.80 as builder
+FROM rust:1.83 as builder
 
 # Create app directory
 WORKDIR /app
