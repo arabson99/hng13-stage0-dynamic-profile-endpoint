@@ -1,1 +1,1 @@
-./target/release/hng13-stage0-dynamic-profile-endpoint
+web: ./target/debug/hng13-stage0-dynamic-profile-endpoint
